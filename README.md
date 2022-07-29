@@ -1,0 +1,2 @@
+# Spell_checker_using_TRIE
+A spelling checking program, using TRIE data structure to build Data dictionary of words which can later be used for comparison to test input and produce output to the user in the form of correct suggestion. If the exact word isn't available in the dictionary,then it inserts test word into dictionary for future use.It can also update a current word with new word and can also delete the word from file.
